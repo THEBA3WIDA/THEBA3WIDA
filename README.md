@@ -1,5 +1,5 @@
 # 💫 About Me:
-working on improving my web dev<br>learning vue.js<br>I love 3D
+working on improving my web dev<br>learning vue.js<br>I love 3D<br>learning react/react native
 
 
 # 💻 Tech Stack:
